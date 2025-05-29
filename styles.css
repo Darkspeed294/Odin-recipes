@@ -1,0 +1,28 @@
+body {
+    font-family: helvetica;
+    background-color: blanchedalmond;
+}
+
+#recipe-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornsilk;
+    width: auto;
+    height: auto;
+    display: flex;
+    width: 300px;
+    height: auto;
+    align-items: center;
+    padding: 10px 15px;
+    margin: 30px auto;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.description {
+background-color: cornsilk;
+padding: 1px 20px;
+margin: 15px auto;
+width: fit-content;
+border-radius: 20px;
+}
+
